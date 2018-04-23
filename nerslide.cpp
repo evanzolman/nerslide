@@ -35,7 +35,7 @@
 *    /_____/ |___/\__,_/_/ /_/     /____/\____/_/_/ /_/ /_/\__,_/_/ /_/
 *
 *   2017-2018 - Evan Zolman
-*   Source from Intro to Programming I/II course
+*   Source from Intro to Programming I/II courses
 *   Project Nerslide
 *   
 */
