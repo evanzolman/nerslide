@@ -35,7 +35,21 @@
 *    /_____/ |___/\__,_/_/ /_/     /____/\____/_/_/ /_/ /_/\__,_/_/ /_/
 *
 *   2017-2018 - Evan Zolman
-*   Source from Intro to Programming I/II courses
-*   Project Nerslide
+*   
+*   Original source from assignments I did in my Intro to Programming I/II courses
+*   
+*   
+*   888b    888                           888 d8b      888          
+*   8888b   888                           888 Y8P      888          
+*   88888b  888                           888          888          
+*   888Y88b 888  .d88b.  888d888 .d8888b  888 888  .d88888  .d88b.  
+*   888 Y88b888 d8P  Y8b 888P"   88K      888 888 d88" 888 d8P  Y8b 
+*   888  Y88888 88888888 888     "Y8888b. 888 888 888  888 88888888 
+*   888   Y8888 Y8b.     888          X88 888 888 Y88b 888 Y8b.     
+*   888    Y888  "Y8888  888      88888P' 888 888  "Y88888  "Y8888  
+*   
+*   -=( Project Nerslide )=-
+*   
+*   
 *   
 */
